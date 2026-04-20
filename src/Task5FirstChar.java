@@ -18,6 +18,6 @@ public class Task5FirstChar {
                 map.put(key,result);
             }
         }
-
+        return map;
     }
 }
