@@ -13,6 +13,6 @@ public class Task3Pairs {
             String value= result.substring(result.length()-1);
             map.put(key, value);
         }
-
+        return map;
     }
 }
