@@ -11,6 +11,6 @@ public class Task1Word0 {
         for(String result: array){
             map.put(result, 0);
         }
-
+        return map;
     }
 }
