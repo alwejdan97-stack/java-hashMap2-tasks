@@ -15,6 +15,6 @@ public class Task4WordCoun {
                 map.put(result,1);
             }
         }
-
+        return map;
     }
 }
