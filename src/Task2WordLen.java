@@ -11,6 +11,6 @@ public class Task2WordLen {
         for(String result : array){
             map.put(result,result.length());
         }
-        return map;
+
     }
 }
