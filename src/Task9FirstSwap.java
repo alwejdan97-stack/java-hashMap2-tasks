@@ -23,6 +23,6 @@ public class Task9FirstSwap {
                 map.put(key,i);
             }
         }
-
+        return array;
     }
 }
