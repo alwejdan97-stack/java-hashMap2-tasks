@@ -22,6 +22,6 @@ public class Task8AllSwap {
                 map.put(key,i);
             }
         }
-        return array;
+
     }
 }
