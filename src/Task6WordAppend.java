@@ -21,6 +21,6 @@ public class Task6WordAppend {
                 New = New+ result;
             }
         }
-        return New;
+
     }
 }
