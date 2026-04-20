@@ -3,7 +3,7 @@ import java.util.Map;
 
 public class Task5FirstChar {
     public static void main(String[] args){
-        String[] array= {"A","B","C","D","aA","DdD","Aa"};
+        String[] array= {"A","B","C","D","A","D","A"};
         String[] array1= {};
         System.out.println(firstChar(array));
         System.out.println(firstChar(array1));
@@ -18,6 +18,6 @@ public class Task5FirstChar {
                 map.put(key,result);
             }
         }
-        return map;
+
     }
 }
