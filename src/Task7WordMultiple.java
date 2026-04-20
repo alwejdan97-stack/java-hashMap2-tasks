@@ -15,6 +15,6 @@ public class Task7WordMultiple {
                 map.put(result,false);
             }
         }
-
+        return map;
     }
 }
