@@ -2,7 +2,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Arrays;
 
-public class Task9FirstSwap {
+public class firstSwap {
     public static void main(String[] args){
         String[] array={"ax", "bx", "cx", "cy", "by", "ay", "aaa", "azz"};
         System.out.println(Arrays.toString(firstSwap(array)));
