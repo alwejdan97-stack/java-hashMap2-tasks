@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class Task2WordLen {
+public class wordLen {
     public static void main(String[] args){
         String[] array = {"Aa","BbB","C","D"};
         System.out.println(wordLen(array));
