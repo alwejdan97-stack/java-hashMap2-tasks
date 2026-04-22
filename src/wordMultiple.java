@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class Task7WordMultiple {
+public class wordMultiple {
     public static void main(String[] args){
         String[] array={"a","b","c","b","d","c"};
         System.out.println(wordMultiple(array));
