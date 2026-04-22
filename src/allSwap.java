@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Task8AllSwap {
+public class allSwap {
     public static void main(String[] args){
         String[] array={"ax", "bx", "cx", "cy", "by", "ay", "aaa", "azz"};
         System.out.println(Arrays.toString(allSwap(array)));
