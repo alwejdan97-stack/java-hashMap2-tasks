@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class Task6WordAppend {
+public class wordAppend {
     public static void main(String[] args){
         String[] array= {"a", "b", "a","a"};
         String[] array2= {"a", "b", "a", "c", "a", "d", "a"};
