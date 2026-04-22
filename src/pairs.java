@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class Task3Pairs {
+public class pairs {
     public static void main(String[] args){
         String[] array = {"Hoor","Ali","Sara","Wejdan"};
         System.out.println(pairs(array));
