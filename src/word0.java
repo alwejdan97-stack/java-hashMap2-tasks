@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class Task1Word0 {
+public class word0 {
     public static void main(String[] args){
         String[] array= {"A","B","C","D"};
         System.out.println(word0(array));
