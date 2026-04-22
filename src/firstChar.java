@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class Task5FirstChar {
+public class firstChar {
     public static void main(String[] args){
         String[] array= {"A","B","C","D","A","D","A"};
         String[] array1= {};
